@@ -9,3 +9,6 @@ the worlds of Java and Kotlin.
 
 I'm starting this very much late, at the end of 2020, fresh off the tails of AoC 2020 (which I 
 implemented in Kotlin).
+
+* [Day 1: Not Quite Lisp](/doc/day1.md)
+* [Day 2: I Was Told There Would Be No Math](/doc/day2.md)
