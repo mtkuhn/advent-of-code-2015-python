@@ -21,6 +21,7 @@ With the same input, now calculate the amount of ribbon needed. This is
 equal to the size of the smallest perimeter, plus an amount equal to the 
 volume to use for the bow.
 
+### Solution
 ```
 def dimensions_to_perimeter(dimensions):
     perimeters = dimensions[0] + dimensions[1], dimensions[0] + dimensions[2], dimensions[1] + dimensions[2]
