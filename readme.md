@@ -12,3 +12,4 @@ implemented in Kotlin).
 
 * [Day 1: Not Quite Lisp](/doc/day1.md)
 * [Day 2: I Was Told There Would Be No Math](/doc/day2.md)
+* [Day 3: Perfectly Spherical Houses in a Vacuum](/doc/day3.md)
